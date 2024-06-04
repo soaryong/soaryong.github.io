@@ -1,26 +1,30 @@
 interface Project {
-  title: string,
-  description: string,
-  href?: string,
-  imgSrc?: string,
+  title: string
+  description: string
+  href?: string
+  imgSrc?: string
 }
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'nftinfo.🟢nline',
+    description: `3rd place winner in "Celestia Infinite Space Bazaar" hackathon “Build Whatever" track 🚀`,
+    href: 'https://dorahacks.io/ko/buidl/12604',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Dynamic Boy',
+    description: `Dynamic bounty track winner in "ETHGlobal: Frameworks" hackathon 🏆`,
+    href: 'https://ethglobal.com/showcase/dynamic-boy-xpwo0',
+  },
+  {
+    title: 'Discovey',
+    description: `Safe — Best Use of Safe{Core} for AA bounty track winner in "ETHGlobal 2023 Online" hackathon 🏆`,
+    href: 'https://ethglobal.com/showcase/discovey-tuywc',
+  },
+  {
+    title: 'Suiquid',
+    description: `Wildcard winners in "2023 Sui Builder House SEOUL" hackathon 🏆`,
+    href: 'https://github.com/soaryong/suiquid-html5-game',
   },
 ]
 
