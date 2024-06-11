@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://yong.land',
   siteRepo: 'https://github.com/soaryong/soaryong.github.io',
   siteLogo: '/static/images/logo.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'soaryong.c@gmail.com',
   github: 'https://github.com/soaryong',
   x: 'https://twitter.com/soaryong',
