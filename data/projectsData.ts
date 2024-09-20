@@ -7,7 +7,7 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'Suiquid',
+    title: 'Ludium - Edu Bounty Management System',
     description: `2nd place winner in "EDU Chain Hackathon: Semester 1" hackathon “EARN" track 🏆`,
     href: 'https://dorahacks.io/buidl/14752',
   },
