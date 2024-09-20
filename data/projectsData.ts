@@ -7,14 +7,19 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'OrderWrap',
+    description: `🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect in "2024 Build the New Internet" hackathon 🏆`,
+    href: 'https://devfolio.co/projects/orderwrap-2eb8',
+  },
+  {
     title: 'Ludium - Edu Bounty Management System',
     description: `2nd place winner in "EDU Chain Hackathon: Semester 1" hackathon “EARN" track 🏆`,
     href: 'https://dorahacks.io/buidl/14752',
   },
   {
-    title: 'OrderWrap',
-    description: `🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect in "2024 Build the New Internet" hackathon 🏆`,
-    href: 'https://devfolio.co/projects/orderwrap-2eb8',
+    title: 'Ludium - Cosmos-SDK Dapp Development Guide',
+    description: `Documentation for Cosmos Dapp development as part of the Road-to-Dubai project 📚.`,
+    href: 'https://github.com/Ludium-Official/road-to-dubai',
   },
   {
     title: 'nftinfo.🟢nline',
