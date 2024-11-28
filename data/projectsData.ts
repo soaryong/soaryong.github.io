@@ -28,7 +28,7 @@ const projectsData: Project[] = [
   },
   {
     title: 'Ludium - Edu Bounty Management System',
-    description: `2nd place winner in the "EDU Chain Hackathon: Semester 1" hackathon “EARN" track 🏆`,
+    description: `2nd place winner in the "2024 EDU Chain Hackathon: Semester 1" hackathon “EARN" track 🏆`,
     href: 'https://dorahacks.io/buidl/14752',
   },
   {
@@ -38,12 +38,12 @@ const projectsData: Project[] = [
   },
   {
     title: 'nftinfo.🟢nline',
-    description: `3rd place winner in the "Celestia Infinite Space Bazaar" hackathon “Build Whatever" track 🚀`,
+    description: `3rd place winner in the "2024 Celestia Infinite Space Bazaar" hackathon “Build Whatever" track 🚀`,
     href: 'https://dorahacks.io/ko/buidl/12604',
   },
   {
     title: 'Dynamic Boy',
-    description: `Dynamic bounty track winner in the "ETHGlobal: Frameworks" hackathon 🏆`,
+    description: `Dynamic bounty track winner in the "2024 ETHGlobal: Frameworks" hackathon 🏆`,
     href: 'https://ethglobal.com/showcase/dynamic-boy-xpwo0',
   },
   {
